@@ -1,0 +1,3 @@
+# Android
+## This is a Sample Epson thermal printer (Epson sample SDK for android)
+## I am using this code for Question purpose I will remove this when My problem is sloved...
